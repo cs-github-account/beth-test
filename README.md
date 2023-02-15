@@ -1,4 +1,4 @@
 # beth-test
-testing for git UI
+testing for github integration
 
 <strong> git UI is amazing </strong>
